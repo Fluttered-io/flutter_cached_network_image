@@ -10,10 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_cache_manager:
-    git:
-      url: https://github.com/Fluttered-io/flutter_cache_manager
-      path: flutter_cache_manager
+  flutter_cache_manager: ^3.0.0
   cached_network_image_platform_interface: ^2.0.0
 
 dev_dependencies:
